@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xolanimti.github.io/sitemap.xml
+Sitemap: https://Earlstein.github.io/sitemap.xml
